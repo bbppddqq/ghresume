@@ -58,7 +58,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   - Skills & Languages: <mark>c</mark>, <mark>c#</mark>, <mark>python</mark>, <mark>php</mark>, <mark>sql</mark>.
 
-  - Platforms: <mark>iOS</mark>, <mark>Android</mark>, <mark>website</mark>, <mark>aws</mark>, <mark>mcu</mark>, <mark>embedded linux</mark>
+  - Platforms: <mark>iOS</mark>, <mark>Android</mark>, <mark>web</mark>, <mark>embedded linux</mark>, <mark>mcu</mark>.
 
 #  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
 #    - Lists
@@ -118,7 +118,7 @@ content:
   #     Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
